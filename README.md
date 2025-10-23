@@ -43,3 +43,5 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://www.google.com)
 
 [https://cielo.com.br](https://cielo.com.br)
+
+Contribuidor principal: https://www.github.com/leandromrocha
