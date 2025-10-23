@@ -45,3 +45,5 @@ __Melhoria 1__, _melhoria 2_
 [https://cielo.com.br](https://cielo.com.br)
 
 Contribuidor principal: https://www.github.com/leandromrocha
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/leandromrocha)
